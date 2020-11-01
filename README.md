@@ -23,6 +23,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 
 #### My GitHub stats
 
-<p align="top">
-<img src="https://github-readme-stats.vercel.app/api?username=naiyerasif&hide=issues&show_icons=true" alt="Naiyer's github stats" />&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyerasif&layout=compact" alt="Naiyer's top languages" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=naiyerasif&hide=issues&show_icons=true" alt="Naiyer's github stats" />
+</a> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyerasif&layout=compact" alt="Naiyer's top languages" />
+</a>
