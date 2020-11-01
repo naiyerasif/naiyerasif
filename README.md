@@ -2,11 +2,7 @@
 
 Currently, I'm wearing the hat of a backend engineer on an Aviation product where I write microservices using [Spring Boot](https://spring.io/projects/spring-boot). Now and then, I also contribute to the reference implementation of my organization's design system.
 
-In the past, I've worked on site reliability, frontend, and ETL projects, in Legal &amp; Compliance, Document Processing, and Banking &amp; Financial Services domains.
-
-I'm adept at [Java](https://openjdk.java.net/), [Spring Boot](https://spring.io/projects/spring-boot), relational databases (mostly [Postgres](https://www.postgresql.org/) and [Oracle](https://www.oracle.com/database/)), and [Node.js](https://nodejs.org/en/).
-
-From time to time, I also work on [Vue.js](https://vuejs.org/), [Angular](https://angular.io/), [Groovy](https://groovy-lang.org/) (mostly with [Spock](https://github.com/spockframework/spock) and [Gradle](https://gradle.org/)), [Docker](https://www.docker.com/), and [Jenkins](https://www.jenkins.io/).
+I'm adept at [Java](https://openjdk.java.net/), [Spring Boot](https://spring.io/projects/spring-boot), relational databases (mostly [Postgres](https://www.postgresql.org/) and [Oracle](https://www.oracle.com/database/)), and [Node.js](https://nodejs.org/en/). From time to time, I also work on [Vue.js](https://vuejs.org/), [Angular](https://angular.io/), [Groovy](https://groovy-lang.org/) (mostly with [Spock](https://github.com/spockframework/spock) and [Gradle](https://gradle.org/)), [Docker](https://www.docker.com/), and [Jenkins](https://www.jenkins.io/).
 
 I read a fair amount of science fiction and fantasy books. I frequently draw vector icons and illustrations. More often than not, I also hunt for interesting typography and new tools that improve my learning process, recollection, and productivity.
 
