@@ -10,7 +10,13 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 
 #### Latest Blog posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Cleaning up Docker resources](https://mflash.dev/blog/2020/10/22/cleaning-up-docker-resources/)
+- [Retrying on failure with Resilience4J and Aspects](https://mflash.dev/blog/2020/09/26/retrying-on-failure-with-resilience4j-and-aspects/)
+- [Logging methods with AspectJ in a Spring application](https://mflash.dev/blog/2020/09/13/logging-methods-with-aspectj-in-a-spring-application/)
+- [API Documentation with Springfox 3](https://mflash.dev/blog/2020/09/05/api-documentation-with-springfox-3/)
+- [Using Git LFS in CI](https://mflash.dev/blog/2020/09/05/using-git-lfs-in-ci/)
+<!-- BLOG-POST-LIST:END -->
 
 #### My GitHub stats
 
