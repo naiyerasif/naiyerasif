@@ -1,4 +1,4 @@
-### Hello <a href="https://mflash.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>, I'm Naiyer!
+### Hello <a href="https://mflash.dev/"><img src="./assets/wave.gif" width="20px"></a>, I'm Naiyer!
 
 Currently, I'm wearing the hat of a backend engineer on an Aviation product where I write microservices using [Spring Boot](https://spring.io/projects/spring-boot). Now and then, I also contribute to the reference implementation of my organization's design system.
 
