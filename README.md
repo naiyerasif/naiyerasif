@@ -19,8 +19,10 @@ From time to time, I also work on
 
 I read a fair amount of science fiction and fantasy books. I frequently draw vector icons and illustrations. More often than not, I also hunt for interesting typography and new tools that improve my learning process, recollection, and productivity.
 
-Feel free to look around and contact me with any questions at [@Microflash](https://www.twitter.com/Microflash).
+I write a blog on design and development at <https://mflash.dev>. Feel free to look around and contact me with any questions at [@Microflash](https://www.twitter.com/Microflash).
 
 #### My GitHub stats
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=naiyerasif&hide=issues&show_icons=true" alt="Naiyer's github stats" />&emsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyerasif&layout=compact" alt="Naiyer's top languages" />
+<p align="top">
+<img src="https://github-readme-stats.vercel.app/api?username=naiyerasif&hide=issues&show_icons=true" alt="Naiyer's github stats" />&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyerasif&layout=compact" alt="Naiyer's top languages" />
+</p>
