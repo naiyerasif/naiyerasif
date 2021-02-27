@@ -11,7 +11,7 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 <!-- BLOG-POST-LIST:START -->
 - [Error handling for Spring Security Resource Server](https://mflash.dev/blog/2021/01/19/error-handling-for-spring-security-resource-server/)
 - [Protecting endpoints with Spring Security Resource Server](https://mflash.dev/blog/2020/11/15/protecting-endpoints-with-spring-security-resource-server/)
+- [Securing Spring Boot APIs with JWT Authentication](https://mflash.dev/blog/2020/11/05/securing-spring-boot-apis-with-jwt-authentication/)
+- [Persisting documents with MongoRepository](https://mflash.dev/blog/2020/10/26/persisting-documents-with-mongorepository/)
 - [Cleaning up Docker resources](https://mflash.dev/blog/2020/10/22/cleaning-up-docker-resources/)
-- [Retrying on failure with Resilience4J and Aspects](https://mflash.dev/blog/2020/09/26/retrying-on-failure-with-resilience4j-and-aspects/)
-- [Logging methods with AspectJ in a Spring application](https://mflash.dev/blog/2020/09/13/logging-methods-with-aspectj-in-a-spring-application/)
 <!-- BLOG-POST-LIST:END -->
