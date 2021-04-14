@@ -9,9 +9,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Converting TTF files to WOFF and WOFF2](https://mflash.dev/blog/2021/04/14/converting-ttf-files-to-woff-and-woff2/)
 - [Java-based health check for Docker](https://mflash.dev/blog/2021/03/01/java-based-health-check-for-docker/)
 - [Copying dependency files with Maven](https://mflash.dev/blog/2021/02/28/copying-dependency-files-with-maven/)
 - [Error handling for Spring Security Resource Server](https://mflash.dev/blog/2021/01/19/error-handling-for-spring-security-resource-server/)
 - [Protecting endpoints with Spring Security Resource Server](https://mflash.dev/blog/2020/11/15/protecting-endpoints-with-spring-security-resource-server/)
-- [Cleaning up Docker resources](https://mflash.dev/blog/2020/10/22/cleaning-up-docker-resources/)
 <!-- BLOG-POST-LIST:END -->
