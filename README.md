@@ -9,9 +9,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Logging methods with AspectJ](https://mflash.dev/blog/2021/10/02/logging-methods-with-aspectj/)
 - [Creating deep copies in Java](https://mflash.dev/blog/2021/06/19/creating-deep-copies-in-java/)
 - [Converting TTF files to WOFF and WOFF2](https://mflash.dev/blog/2021/04/14/converting-ttf-files-to-woff-and-woff2/)
 - [Java-based health check for Docker](https://mflash.dev/blog/2021/03/01/java-based-health-check-for-docker/)
 - [Copying dependency files with Maven](https://mflash.dev/blog/2021/02/28/copying-dependency-files-with-maven/)
-- [Error handling for Spring Security Resource Server](https://mflash.dev/blog/2021/01/19/error-handling-for-spring-security-resource-server/)
 <!-- BLOG-POST-LIST:END -->
