@@ -13,5 +13,5 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 - [Weaving aspects at compile-time with AspectJ](https://mflash.dev/post/2021/10/10/weaving-aspects-at-compile-time-with-aspectj/)
 - [Creating deep copies in Java](https://mflash.dev/post/2021/06/19/creating-deep-copies-in-java/)
 - [Converting TTF files to WOFF and WOFF2](https://mflash.dev/post/2021/04/14/converting-ttf-files-to-woff-and-woff2/)
-- [Java-based health check for Docker](https://mflash.dev/post/2021/03/01/java-based-health-check-for-docker/)
+- [Content negotiation in Spring Boot](https://mflash.dev/post/2021/03/27/content-negotiation-in-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
