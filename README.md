@@ -9,9 +9,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Problem Details](https://mflash.dev/post/2022/08/06/introduction-to-problem-details/)
 - [Microflash: Version 2](https://mflash.dev/post/2022/07/13/microflash-version-2/)
 - [Working with AWS on local using LocalStack](https://mflash.dev/post/2021/11/16/working-with-aws-on-local-using-localstack/)
 - [Weaving aspects at compile-time with AspectJ](https://mflash.dev/post/2021/10/10/weaving-aspects-at-compile-time-with-aspectj/)
 - [Creating deep copies in Java](https://mflash.dev/post/2021/06/19/creating-deep-copies-in-java/)
-- [Converting TTF files to WOFF and WOFF2](https://mflash.dev/post/2021/04/14/converting-ttf-files-to-woff-and-woff2/)
 <!-- BLOG-POST-LIST:END -->
