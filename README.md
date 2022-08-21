@@ -1,8 +1,8 @@
 ### Hello, I'm Naiyer!
 
-Currently, I'm a backend engineer on an Aviation product where I write microservices using [Spring Boot](https://spring.io/projects/spring-boot). From time to time, I also contribute to my organization's design system.
+I'm a software engineer on an Aviation product, working on the microservices and enterprise APIs. Before this, I worked as a full-stack engineer at [Wipro Holmes](https://www.wipro.com/holmes/) and as an ETL consultant for [Suncorp](https://www.suncorp.com.au/).
 
-I'm most experienced on [Java](https://openjdk.java.net/), [Spring Boot](https://spring.io/projects/spring-boot), relational databases (mostly [Postgres](https://www.postgresql.org/) and [Oracle](https://www.oracle.com/database/)), and [Node.js](https://nodejs.org/en/). However, I've also worked reasonably often on [Vue.js](https://vuejs.org/), [Angular](https://angular.io/), [Groovy](https://groovy-lang.org/) (mostly with [Spock](https://github.com/spockframework/spock) and [Gradle](https://gradle.org/)), [Docker](https://www.docker.com/), and [Jenkins](https://www.jenkins.io/).
+I've mostly worked with [Java](https://openjdk.java.net/), [Spring Boot](https://spring.io/projects/spring-boot), relational databases (mostly [Postgres](https://www.postgresql.org/) and [Oracle](https://www.oracle.com/database/)), [Node.js](https://nodejs.org/en/) and recently [AWS Serverless](https://aws.amazon.com/serverless/). I've also worked reasonably often with [Vue.js](https://vuejs.org/), [Angular](https://angular.io/), [Docker](https://www.docker.com/), and [Jenkins](https://www.jenkins.io/).
 
 I write a blog on design and development at <https://mflash.dev>. Feel free to look around and contact me with any questions at [@Microflash](https://www.twitter.com/Microflash) on Twitter.
 
