@@ -9,9 +9,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting a connection leak with Hikari](https://mflash.dev/post/2022/09/18/detecting-a-connection-leak-with-hikari/)
 - [Client Credentials flow with Ory Hydra](https://mflash.dev/post/2022/08/21/client-credentials-flow-with-ory-hydra/)
 - [Introduction to Problem Details](https://mflash.dev/post/2022/08/06/introduction-to-problem-details/)
 - [Microflash: Version 2](https://mflash.dev/post/2022/07/13/microflash-version-2/)
 - [Customizing Microsoft Office installation](https://mflash.dev/post/2022/04/15/customizing-microsoft-office-installation/)
-- [Working with AWS on local using LocalStack](https://mflash.dev/post/2021/11/16/working-with-aws-on-local-using-localstack/)
 <!-- BLOG-POST-LIST:END -->
