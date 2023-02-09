@@ -9,9 +9,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting a connection leak with Hikari](https://mflash.dev/post/2022/09/18/detecting-a-connection-leak-with-hikari/)
-- [Client Credentials flow with Ory Hydra](https://mflash.dev/post/2022/08/21/client-credentials-flow-with-ory-hydra/)
-- [Introduction to Problem Details](https://mflash.dev/post/2022/08/06/introduction-to-problem-details/)
-- [Microflash: Version 2](https://mflash.dev/post/2022/07/13/microflash-version-2/)
-- [Customizing Microsoft Office installation](https://mflash.dev/post/2022/04/15/customizing-microsoft-office-installation/)
+- [Delete local Git branches with Nushell](/post/2023/01/02/delete-local-git-branches-with-nushell/)
+- [HTML fragment to jump to the top](/post/2022/12/17/html-fragment-to-jump-to-the-top/)
+- [Yearly account purge](/post/2022/12/04/yearly-account-purge/)
+- [Don’t use &lt;input type=range&gt; for large ranges](/post/2022/11/22/dont-use-input-type-range-for-large-ranges/)
+- [Using placeholder without a label](/post/2022/10/06/using-placeholder-without-a-label/)
 <!-- BLOG-POST-LIST:END -->
