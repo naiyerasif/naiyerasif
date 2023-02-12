@@ -9,9 +9,9 @@ I write a blog on design and development at <https://mflash.dev>. Feel free to l
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing naiyer.dev](/post/2023/02/02/introducing-naiyer-dev/)
 - [Delete local Git branches with Nushell](/post/2023/01/02/delete-local-git-branches-with-nushell/)
 - [HTML fragment to jump to the top](/post/2022/12/17/html-fragment-to-jump-to-the-top/)
 - [Yearly account purge](/post/2022/12/04/yearly-account-purge/)
 - [Don’t use &lt;input type=range&gt; for large ranges](/post/2022/11/22/dont-use-input-type-range-for-large-ranges/)
-- [Using placeholder without a label](/post/2022/10/06/using-placeholder-without-a-label/)
 <!-- BLOG-POST-LIST:END -->
