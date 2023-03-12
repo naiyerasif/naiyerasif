@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at <https://naiyer.dev>. 
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generating webfonts with fontTools](https://naiyer.dev/post/2023/03/11/generating-webfonts-with-fonttools/)
 - [Nested border radii](https://naiyer.dev/post/2023/03/07/nested-border-radii/)
 - [Git push with +](https://naiyer.dev/post/2023/02/20/git-push-with-plus/)
 - [Lighthouse for every single page](https://naiyer.dev/post/2023/02/15/lighthouse-for-every-single-page/)
 - [A fallacy about comments](https://naiyer.dev/post/2023/02/15/a-fallacy-about-comments/)
-- [Introducing naiyer.dev](https://naiyer.dev/post/2023/02/02/introducing-naiyer-dev/)
 <!-- BLOG-POST-LIST:END -->
