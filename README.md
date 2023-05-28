@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at <https://naiyer.dev>. 
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redirecting command output to the clipboard on Mac](https://naiyer.dev/post/2023/05/28/redirecting-command-output-to-the-clipboard-on-mac/)
 - [Prune homebrew dependencies](https://naiyer.dev/post/2023/05/01/prune-homebrew-dependencies/)
 - [curl&#39;s --json flag](https://naiyer.dev/post/2023/03/22/curls-json-flag/)
 - [Generating webfonts with fontTools](https://naiyer.dev/post/2023/03/11/generating-webfonts-with-fonttools/)
 - [Nested border radii](https://naiyer.dev/post/2023/03/07/nested-border-radii/)
-- [Git push with +](https://naiyer.dev/post/2023/02/20/git-push-with-plus/)
 <!-- BLOG-POST-LIST:END -->
