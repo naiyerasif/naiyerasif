@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at <https://naiyer.dev>. 
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance](https://www.naiyerasif.com/post/2023/07/20/performance/)
 - [Overbearing weight of fashion](https://www.naiyerasif.com/post/2023/07/18/overbearing-weight-of-fashion/)
 - [Save clipboard content to a file with Nushell](https://www.naiyerasif.com/post/2023/07/16/save-clipboard-content-to-a-file-with-nushell/)
 - [Hacker News dark mode with larger text](https://www.naiyerasif.com/post/2023/07/15/hacker-news-dark-mode-with-larger-text/)
 - [Site update: v4](https://www.naiyerasif.com/post/2023/07/13/site-update-v4/)
-- [Modern web is cluttered](https://www.naiyerasif.com/post/2023/06/27/modern-web-is-cluttered/)
 <!-- BLOG-POST-LIST:END -->
