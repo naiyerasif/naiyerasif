@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Browser compatibility](https://www.naiyerasif.com/post/2023/08/27/browser-compatibility/)
 - [Release your software faster](https://www.naiyerasif.com/post/2023/08/19/release-your-software-faster/)
 - [Blocking OpenAI&#39;s web crawler](https://www.naiyerasif.com/post/2023/08/11/blocking-openais-web-crawler/)
 - [On how I use Firefox](https://www.naiyerasif.com/post/2023/08/06/on-how-i-use-firefox/)
 - [Islamic calendar in Java](https://www.naiyerasif.com/post/2023/08/05/islamic-calendar-in-java/)
-- [Performance](https://www.naiyerasif.com/post/2023/07/20/performance/)
 <!-- BLOG-POST-LIST:END -->
