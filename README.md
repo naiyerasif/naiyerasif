@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom Node.js version on CodeBuild](https://www.naiyerasif.com/post/2023/09/20/custom-nodejs-version-on-codebuild/)
 - [Improved local development using containers in Spring Boot 3.1](https://www.naiyerasif.com/post/2023/09/08/improved-local-development-using-containers-in-spring-boot-3-1/)
 - [Downgrading homebrew packages](https://www.naiyerasif.com/post/2023/09/06/downgrading-homebrew-packages/)
 - [WHY I LEFT DEVELOPER RELATIONS](https://www.naiyerasif.com/post/2023/09/04/why-i-left-developer-relations/)
 - [Hope](https://www.naiyerasif.com/post/2023/08/30/hope/)
-- [Browser compatibility](https://www.naiyerasif.com/post/2023/08/27/browser-compatibility/)
 <!-- BLOG-POST-LIST:END -->
