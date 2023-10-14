@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Updated] Limiting manual changes to generated numeric columns in Postgres](https://www.naiyerasif.com/post/2023/10/02/limiting-manual-changes-to-generated-numeric-columns-in-postgres/)
 - [Blocking AI web crawlers](https://www.naiyerasif.com/post/2023/09/30/blocking-ai-web-crawlers/)
 - [[Updated] Client Credentials flow with Ory Hydra](https://www.naiyerasif.com/post/2022/08/21/client-credentials-flow-with-ory-hydra/)
 - [Custom Node.js version on CodeBuild](https://www.naiyerasif.com/post/2023/09/20/custom-nodejs-version-on-codebuild/)
 - [Improved local development using containers in Spring Boot 3.1](https://www.naiyerasif.com/post/2023/09/08/improved-local-development-using-containers-in-spring-boot-3-1/)
-- [Downgrading homebrew packages](https://www.naiyerasif.com/post/2023/09/06/downgrading-homebrew-packages/)
 <!-- BLOG-POST-LIST:END -->
