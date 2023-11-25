@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Updated] API documentation with springdoc-openapi](https://www.naiyerasif.com/post/2020/06/27/api-documentation-with-springdoc-openapi/)
+- [[Updated] Retrying on failure with Resilience4J and Aspects](https://www.naiyerasif.com/post/2020/09/26/retrying-on-failure-with-resilience4j-and-aspects/)
+- [[Updated] Logging methods with AspectJ in a Spring application](https://www.naiyerasif.com/post/2020/09/13/logging-methods-with-aspectj-in-a-spring-application/)
 - [Graceful shutdown with Spring Boot](https://www.naiyerasif.com/post/2023/10/22/graceful-shutdown-with-spring-boot/)
 - [[Updated] Limiting manual changes to generated numeric columns in Postgres](https://www.naiyerasif.com/post/2023/10/02/limiting-manual-changes-to-generated-numeric-columns-in-postgres/)
-- [Blocking AI web crawlers](https://www.naiyerasif.com/post/2023/09/30/blocking-ai-web-crawlers/)
-- [[Updated] Client Credentials flow with Ory Hydra](https://www.naiyerasif.com/post/2022/08/21/client-credentials-flow-with-ory-hydra/)
-- [Custom Node.js version on CodeBuild](https://www.naiyerasif.com/post/2023/09/20/custom-nodejs-version-on-codebuild/)
 <!-- BLOG-POST-LIST:END -->
