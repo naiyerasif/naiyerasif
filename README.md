@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detect scripting support with CSS](https://www.naiyerasif.com/post/2023/12/17/detect-scripting-support-with-css/)
 - [Customizing default screenshot location on macOS](https://www.naiyerasif.com/post/2023/11/25/customizing-default-screenshot-location-on-macos/)
 - [[Updated] API documentation with springdoc-openapi](https://www.naiyerasif.com/post/2020/06/27/api-documentation-with-springdoc-openapi/)
 - [[Updated] Retrying on failure with Resilience4J and Aspects](https://www.naiyerasif.com/post/2020/09/26/retrying-on-failure-with-resilience4j-and-aspects/)
 - [[Updated] Logging methods with AspectJ in a Spring application](https://www.naiyerasif.com/post/2020/09/13/logging-methods-with-aspectj-in-a-spring-application/)
-- [Graceful shutdown with Spring Boot](https://www.naiyerasif.com/post/2023/10/22/graceful-shutdown-with-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
