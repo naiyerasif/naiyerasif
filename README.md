@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All engineering is reverse engineering](https://www.naiyerasif.com/post/2024/01/14/all-engineering-is-reverse-engineering/)
 - [Printing posters with Obsidian](https://www.naiyerasif.com/post/2024/01/11/printing-posters-with-obsidian/)
 - [Period of the Day format for Java Temporal](https://www.naiyerasif.com/post/2024/01/07/period-of-the-day-format-for-java-temporal/)
 - [The allure of AI](https://www.naiyerasif.com/post/2024/01/02/the-allure-of-ai/)
 - [Scaling a video with FFmpeg using Nushell](https://www.naiyerasif.com/post/2023/12/29/scaling-a-video-with-ffmpeg-using-nushell/)
-- [Omit needless words](https://www.naiyerasif.com/post/2023/12/29/omit-needless-words/)
 <!-- BLOG-POST-LIST:END -->
