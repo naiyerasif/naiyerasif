@@ -9,9 +9,9 @@ I write a blog on software engineering and other stuff at [naiyerasif.com](https
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exposing arbitrary info using Spring Boot&#39;s actuator](https://www.naiyerasif.com/post/2024/02/12/exposing-arbitrary-info-using-spring-boots-actuator/)
 - [Using LocalStack for AWS Lambda with SQS trigger](https://www.naiyerasif.com/post/2024/02/11/using-localstack-for-aws-lambda-with-sqs-trigger/)
 - [[Updated] Working with AWS on local using LocalStack](https://www.naiyerasif.com/post/2021/11/16/working-with-aws-on-local-using-localstack/)
 - [All engineering is reverse engineering](https://www.naiyerasif.com/post/2024/01/14/all-engineering-is-reverse-engineering/)
 - [Printing posters with Obsidian](https://www.naiyerasif.com/post/2024/01/11/printing-posters-with-obsidian/)
-- [Period of the Day format for Java Temporal](https://www.naiyerasif.com/post/2024/01/07/period-of-the-day-format-for-java-temporal/)
 <!-- BLOG-POST-LIST:END -->
