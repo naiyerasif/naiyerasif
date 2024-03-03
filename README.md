@@ -6,7 +6,7 @@ I've mostly worked on [Java](https://openjdk.java.net/), [Spring Boot](https://s
 
 I write a blog on software engineering and other stuff at [naiyerasif.com](https://www.naiyerasif.com). Feel free to look around and contact me with any questions at [@naiyer@mastodon.design](https://mastodon.design/@naiyer).
 
-#### Latest Blog posts
+#### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Scrolljacking](https://www.naiyerasif.com/post/2024/02/22/scrolljacking/)
