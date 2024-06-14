@@ -9,9 +9,9 @@ Currently, I work on an Aerospace product. Before this, I was a full-stack engin
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Updated] My Mac Setup](https://www.naiyerasif.com/post/2023/04/16/my-mac-setup/)
 - [[Updated] Using abbreviations on the web](https://www.naiyerasif.com/post/2024/06/09/using-abbreviations-on-the-web/)
 - [Capitalism](https://www.naiyerasif.com/post/2024/05/21/capitalism/)
 - [Evaluating Technology](https://www.naiyerasif.com/post/2024/05/10/evaluating-technology/)
 - [AI Helper](https://www.naiyerasif.com/post/2024/04/27/ai-helper/)
-- [Custom job summaries for GitHub Actions](https://www.naiyerasif.com/post/2024/04/14/custom-job-summaries-for-github-actions/)
 <!-- BLOG-POST-LIST:END -->
