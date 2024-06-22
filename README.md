@@ -1,6 +1,6 @@
-# 👋 Hello, I’m Naiyer!
+# 👋 Hello, I'm Naiyer!
 
-I’m a software engineer from India. My professional experience exists at the intersection of the backend, frontend, databases, and lately, cloud. With a lot of application design, requirements analysis and documentation sprinkled on top.
+I'm a software engineer from India. I've worked on the frontend, backend, and more recently, cloud. I enjoy tackling design and engineering problems, and I prefer to do so in short bursts with a healthy amount of pragmatism.
 
 Currently, I work on an Aerospace product. Before this, I was a full-stack engineer at [Wipro Holmes](https://www.wipro.com/holmes/).
 
