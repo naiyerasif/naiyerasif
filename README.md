@@ -9,9 +9,9 @@ Currently, I work on an Aerospace product. Before this, I was a full-stack engin
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Updated] My Mac Setup](https://www.naiyerasif.com/post/2023/04/16/my-mac-setup/)
+- [[Updated] Code Coverage with JaCoCo and Maven](https://www.naiyerasif.com/post/2018/11/15/code-coverage-with-jacoco-and-maven/)
 - [How I subset fonts for my site](https://www.naiyerasif.com/post/2024/06/27/how-i-subset-fonts-for-my-site/)
 - [Restore Terminal settings from Time Machine](https://www.naiyerasif.com/post/2024/06/24/restore-terminal-settings-from-time-machine/)
 - [Dollar-quoted strings in Postgres](https://www.naiyerasif.com/post/2024/06/24/dollar-quoted-strings-in-postgres/)
-- [[Updated] Blocking AI web crawlers](https://www.naiyerasif.com/post/2023/09/30/blocking-ai-web-crawlers/)
-- [[Updated] My Mac Setup](https://www.naiyerasif.com/post/2023/04/16/my-mac-setup/)
 <!-- BLOG-POST-LIST:END -->
