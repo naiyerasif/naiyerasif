@@ -9,9 +9,9 @@ Currently, I work on an Aerospace product. Before this, I was a full-stack engin
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cell alignment in Excel](https://www.naiyerasif.com/post/2024/10/13/cell-alignment-in-excel/)
 - [[Updated] Using a custom Java version as CodeBuild runtime](https://www.naiyerasif.com/post/2024/09/07/using-a-custom-java-version-as-codebuild-runtime/)
 - [OSS SOS](https://www.naiyerasif.com/post/2024/10/06/oss-sos/)
 - [[Updated] Git Playbook](https://www.naiyerasif.com/post/2019/03/24/git-playbook/)
 - [uv for Python projects](https://www.naiyerasif.com/post/2024/09/25/uv-for-python-projects/)
-- [[Updated] Remap function keys to adjust keyboard brightness on macOS](https://www.naiyerasif.com/post/2023/05/09/remap-function-keys-to-adjust-keyboard-brightness-on-macos/)
 <!-- BLOG-POST-LIST:END -->
