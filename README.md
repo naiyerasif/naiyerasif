@@ -7,9 +7,9 @@ I work as a software engineer on an Aerospace product, focused on backend and cl
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [future doctor](https://www.naiyerasif.com/post/2025/05/19/future-doctor/)
+- [[Updated] Detecting a connection leak with Hikari](https://www.naiyerasif.com/post/2022/09/18/detecting-a-connection-leak-with-hikari/)
 - [Biggest problem with AI](https://www.naiyerasif.com/post/2025/04/28/biggest-problem-with-ai/)
 - [The Evil Scientist&#39;s Notes for the Press Conference](https://www.naiyerasif.com/post/2025/04/19/the-evil-scientists-notes-for-the-press-conference/)
 - [Export VoiceOver speech to audio file](https://www.naiyerasif.com/post/2025/04/13/export-voiceover-speech-to-audio-file/)
-- [Setting up environment variables on macOS](https://www.naiyerasif.com/post/2024/12/29/setting-up-environment-variables-on-macos/)
-- [[Updated] My Mac Setup](https://www.naiyerasif.com/post/2023/04/16/my-mac-setup/)
 <!-- BLOG-POST-LIST:END -->
