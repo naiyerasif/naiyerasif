@@ -7,9 +7,9 @@ I work as a software engineer on an Aerospace product, focused on backend and cl
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Updated] uv for Python projects](https://naiyerasif.com/post/2024/09/25/uv-for-python-projects/)
+- [[Updated] Git Playbook](https://naiyerasif.com/post/2019/03/24/git-playbook/)
 - [[Updated] Downgrading homebrew packages](https://naiyerasif.com/post/2023/09/06/downgrading-homebrew-packages/)
 - [[Updated] How to show custom info using Spring Boot Actuator](https://naiyerasif.com/post/2024/02/12/exposing-arbitrary-info-using-spring-boots-actuator/)
 - [The Rot of a Civilization](https://naiyerasif.com/post/2025/07/30/the-rot-of-a-civilization/)
-- [How to implement an AWS Lambda function using Micronaut](https://naiyerasif.com/post/2025/07/13/how-to-implement-an-aws-lambda-function-using-micronaut/)
-- [[Updated] Securing Spring Boot APIs with JWT Authentication](https://naiyerasif.com/post/2020/04/10/securing-spring-boot-apis-with-jwt-authentication/)
 <!-- BLOG-POST-LIST:END -->
