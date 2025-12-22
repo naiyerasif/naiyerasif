@@ -7,9 +7,9 @@ I work as a software engineer on an Aerospace product, focused on backend and cl
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Updated] Polymorphic Requests with Jackson](https://naiyerasif.com/post/2020/06/11/polymorphic-requests-with-jackson/)
-- [[Updated] uv for Python projects](https://naiyerasif.com/post/2024/09/25/uv-for-python-projects/)
-- [[Updated] Git Playbook](https://naiyerasif.com/post/2019/03/24/git-playbook/)
-- [[Updated] Downgrading homebrew packages](https://naiyerasif.com/post/2023/09/06/downgrading-homebrew-packages/)
-- [[Updated] How to show custom info using Spring Boot Actuator](https://naiyerasif.com/post/2024/02/12/exposing-arbitrary-info-using-spring-boots-actuator/)
+- [[Updated] Logging methods with AspectJ in a Spring application](https://naiyerasif.com/post/2020/09/13/logging-methods-with-aspectj-in-a-spring-application/)
+- [[Updated] Forwarding a port to Android with ADB](https://naiyerasif.com/post/2020/09/07/forwarding-a-port-to-android-with-adb/)
+- [[Updated] Alternative way to parse lists with Jackson](https://naiyerasif.com/post/2021/04/30/alternative-way-to-parse-lists-with-jackson/)
+- [[Updated] Period of the Day format for Java Temporal](https://naiyerasif.com/post/2024/01/07/period-of-the-day-format-for-java-temporal/)
+- [[Updated] Weaving aspects at compile-time with AspectJ](https://naiyerasif.com/post/2021/10/10/weaving-aspects-at-compile-time-with-aspectj/)
 <!-- BLOG-POST-LIST:END -->
