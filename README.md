@@ -7,9 +7,9 @@ I work as a software engineer on an Aerospace product, focused on backend and cl
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving for Low Productivity](https://naiyerasif.com/post/2026/02/05/solving-for-low-productivity/)
 - [[Updated] Messaging with RabbitMQ and Spring Boot](https://naiyerasif.com/post/2018/12/13/messaging-with-rabbitmq-and-spring-boot/)
 - [[Updated] API documentation with springdoc-openapi](https://naiyerasif.com/post/2020/06/27/api-documentation-with-springdoc-openapi/)
 - [[Updated] Securing Spring Boot APIs with JWT Authentication](https://naiyerasif.com/post/2020/04/10/securing-spring-boot-apis-with-jwt-authentication/)
 - [[Updated] Client Credentials flow with Ory Hydra](https://naiyerasif.com/post/2022/08/21/client-credentials-flow-with-ory-hydra/)
-- [How to dispose JavaScript objects](https://naiyerasif.com/post/2025/12/23/how-to-dispose-javascript-objects/)
 <!-- BLOG-POST-LIST:END -->
