@@ -7,9 +7,9 @@ I work as a software engineer on an Aerospace product, focused on backend and cl
 I've a personal site at [naiyerasif.com](https://www.naiyerasif.com). Here are some of my recents posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Updated] How to write integration tests using Testcontainers in Python](https://naiyerasif.com/post/2025/06/03/how-to-write-integration-tests-using-testcontainers-in-python)
+- [[Updated] How to mock a module import in Python](https://naiyerasif.com/post/2025/05/31/how-to-mock-a-module-import-in-python)
 - [How to run EventRule-triggered Lambda locally with Floci](https://naiyerasif.com/post/2026/08/18/how-to-run-eventrule-triggered-lambda-locally-with-floci)
 - [[Updated] How to run SNS-triggered Lambda locally with Floci](https://naiyerasif.com/post/2026/08/16/how-to-run-sns-triggered-lambda-locally-with-floci)
 - [[Updated] How to run SQS-triggered Lambda locally with Floci](https://naiyerasif.com/post/2026/08/16/how-to-run-sqs-triggered-lambda-locally-with-floci)
-- [[Updated] How to use AWS CLI with Floci for local development](https://naiyerasif.com/post/2026/06/07/how-to-use-aws-cli-with-floci-for-local-development)
-- [Solving for Low Productivity](https://naiyerasif.com/post/2026/02/05/solving-for-low-productivity)
 <!-- BLOG-POST-LIST:END -->
